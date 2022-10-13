@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 team: Leopards
 
 manager: Luke
@@ -8,6 +7,4 @@ members:
   - William
   - David
   - Olivia
-=======
-coach: Teddy
->>>>>>> add-coach
+  - Evie
